@@ -1,0 +1,1 @@
+..\venv\Scripts\luigi.sh --scheduler-url http://ubuntu@tp-hadoop-28:8082 --module etl RunProcessTask --workers 4
